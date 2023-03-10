@@ -2,7 +2,7 @@
 
 ### A full stack e-commerce website for clothing store.
 
-### [Live demo](https://dress-shop.vercel.app/)
+
 
 ## Screenshots
 
@@ -19,10 +19,7 @@
 - Stripe and Paypal (for payment)
 - Vercel (for deployment)
 
-### Clone Repository
 
-```
-git clone https://github.com/jrussumbrella/dress-shop-web.git
 ```
 
 ### Client Installation
