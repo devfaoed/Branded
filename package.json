@@ -1,0 +1,12 @@
+{
+  "name": "dress-shop",
+  "version": "1.0.0",
+  "description": "A full stack e-commerce website for clothing store.",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {}
+}
